@@ -19,9 +19,9 @@ namespace _5.swap_2_number
             string s2 = Console.ReadLine();
             num2 = int.Parse(s2);
 
-            swap = num1;
-            num1 = num2;
-            num2 = swap;
+            //swap = num1;
+            //num1 = num2;
+            //num2 = swap;
 
             Console.WriteLine("First Number: {0}", num1);
             Console.WriteLine("Second Number: {0}", num2);
